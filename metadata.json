@@ -1,0 +1,7 @@
+{
+  "name": "Copy of LittleStoryMaker",
+  "description": "An interactive, AI-powered story creation tool designed for children to build their own illustrated e-books.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
